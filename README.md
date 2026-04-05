@@ -3,7 +3,7 @@
 
 An interactive HR Analytics Dashboard built using Microsoft Power BI to analyze employee attrition, salary trends, age groups, and departmental insights across an organization of 1,480 employees.
 
-Key Dashboard Highlights (Keep only 5–6 max)
+Key Dashboard Highlights 
 
  KPI Overview
  
