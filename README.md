@@ -38,10 +38,15 @@ Average tenure is only 7 years
  Tools & Skills
 
 Microsoft Power BI
+
 Data Visualization (KPI, Bar, Column, Donut, Line Charts)
+
 Dashboard Design
+
 HR Data Analysis
+
 Data Interpretation & Insights
+
 Dataset
 
 HR Employee Attrition Dataset
