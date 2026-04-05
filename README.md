@@ -6,21 +6,27 @@ An interactive HR Analytics Dashboard built using Microsoft Power BI to analyze 
 Key Dashboard Highlights (Keep only 5–6 max)
 
  KPI Overview
+ 
 Total Employees: 1,480 | Avg Age: 37 | Avg Salary: 6.5K | Avg Tenure: 7 years
 
   Attrition by Age Group
+  
 Highest attrition in 26–35 age group (611 employees)
 
   Attrition by Salary
+  
 Employees earning ≤5K show highest attrition (753)
 
   Attrition by Job Role
+  
 Top impacted roles: Sales Executive, Research Scientist, Lab Technician
 
   Attrition by Education Field
+  
 Life Sciences shows highest attrition (41%)
 
   Department Filter (Slicer)
+  
 Interactive filtering across HR, R&D, and Sales
 
   Key Insights
